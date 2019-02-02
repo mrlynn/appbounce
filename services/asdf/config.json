@@ -1,0 +1,12 @@
+{
+    "id": "5c55eaf47516b07942e2cae4",
+    "name": "asdf",
+    "type": "twilio",
+    "config": {
+        "sid": "kdhjmdiumerudmaljhfoihasdlkfnoi44o89ywekljnasdf"
+    },
+    "secret_config": {
+        "auth_token": "__asdf_auth_token"
+    },
+    "version": 1
+}

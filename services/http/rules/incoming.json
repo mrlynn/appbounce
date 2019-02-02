@@ -1,0 +1,8 @@
+{
+    "id": "5c45d73bcf35bfcd67bafac4",
+    "name": "incoming",
+    "actions": [
+        "get",
+        "post"
+    ]
+}
